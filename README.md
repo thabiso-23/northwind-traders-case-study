@@ -46,7 +46,7 @@ ORDER BY total_revenue DESC
 LIMIT 3;
 ```
 
-<img src="https://github.com/ThabisoLetlala/Northwind_Portfolio/assets/..." width="800">)
+<img src="https://github.com/thabiso-23/northwind-traders-case-study/blob/main/Visualisations/Chart_1_Top_Employees.png?raw=true" width="800">)
 
 💡 **Actionable Insight:** Margaret Peacock is our leading sales representative, outperforming the runner-up by nearly $30,000. Leadership should consider analysing her sales tactics to build a targeted training programme for underperforming representatives.
 
@@ -68,7 +68,7 @@ GROUP BY s.company_name
 ORDER BY late_deliveries DESC;
 ```
 
-<img src="https://github.com/ThabisoLetlala/Northwind_Portfolio/assets/..." width="800">)
+<img src="https://github.com/thabiso-23/northwind-traders-case-study/blob/main/Visualisations/Chart_2_Late_Shipments.png?raw=true" width="800">)
 
 💡 **Actionable Insight:** "Speedy Express" is ironically responsible for our highest number of late deliveries, closely followed by Federal Shipping. United Package is our most reliable vendor. Supply chain leadership should renegotiate SLAs (Service Level Agreements) with the top two offenders or shift more volume to United Package.
 
@@ -92,7 +92,7 @@ HAVING SUM(od.unit_price * od.quantity * (1 - od.discount)) > 10000
 ORDER BY lifetime_spend DESC;
 ```
 
-<img src="https://github.com/ThabisoLetlala/Northwind_Portfolio/assets/..." width="800">)
+<img src="https://github.com/thabiso-23/northwind-traders-case-study/blob/main/Visualisations/Chart_3_VIP_Customers.png?raw=true" width="800">)
 
 💡 **Actionable Insight:** A significant portion of our VIP clientele is based in Europe (specifically Germany and Austria, led by QUICK-Stop). Marketing should consider localised loyalty programmes or exclusive corporate events in these regions to maintain high retention.
 
@@ -129,7 +129,7 @@ WHERE previous_month_revenue IS NOT NULL
 ORDER BY order_month;
 ```
 
-<img src="https://github.com/ThabisoLetlala/Northwind_Portfolio/assets/..." width="800">)
+<img src="https://github.com/thabiso-23/northwind-traders-case-study/blob/main/Visualisations/Chart_4_MoM_Revenue.png?raw=true" width="800">)
 
 💡 **Actionable Insight:** Historical data indicates significant volatility, with sharp dips often followed by immediate corrections. Identifying these historical dips allows leadership to anticipate seasonal slumps and adjust operational budgets accordingly before cash flow tightens.
 
@@ -162,7 +162,7 @@ GROUP BY
 ORDER BY discount_tier;
 ```
 
-<img src="https://github.com/ThabisoLetlala/Northwind_Portfolio/assets/..." width="800">)
+<img src="https://github.com/thabiso-23/northwind-traders-case-study/blob/main/Visualisations/Chart_5_Discount_Effectiveness.png?raw=true" width="800">)
 
 💡 **Actionable Insight:** The data proves that discounting *does* drive volume. Customers purchasing items at a "High Discount" bought an average of 34 units per order, compared to just 21 units when no discount was offered. 
 
@@ -192,7 +192,7 @@ GROUP BY c.company_name
 ORDER BY days_since_last_purchase DESC;
 ```
 
-<img src="https://github.com/ThabisoLetlala/Northwind_Portfolio/assets/..." width="800">)
+<img src="https://github.com/thabiso-23/northwind-traders-case-study/blob/main/Visualisations/Chart_6_Customer_Churn.png?raw=true" width="800">)
 
 💡 **Actionable Insight:** While a strong portion of our base remains active, nearly a quarter of our clients have slipped into the "At Risk" category. Marketing should immediately deploy automated win-back emails offering a targeted discount (which we know drives volume) to re-engage this cohort before they fully churn.
 
