@@ -217,7 +217,7 @@ ORDER BY times_bought_together DESC
 LIMIT 10;
 ```
 
-<img src="https://github.com/ThabisoLetlala/Northwind_Portfolio/assets/..." width="800">)
+<img src="https://github.com/thabiso-23/northwind-traders-case-study/blob/main/Visualisations/Chart_7_Market_Basket.png?raw=true" width="800">)
 
 💡 **Actionable Insight:** We see strong correlations in specific product pairings (e.g., Sir Rodney's Scones and Sirop d'érable). E-commerce teams should implement an automated "Frequently Bought Together" recommendation widget at checkout featuring these pairs to organically increase Average Order Value (AOV).
 
