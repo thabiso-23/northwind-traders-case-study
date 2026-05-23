@@ -48,7 +48,7 @@ LIMIT 3;
 
 <img src="https://github.com/thabiso-23/northwind-traders-case-study/blob/main/Visualisations/Chart_1_Top_Employees.png?raw=true" width="800">)
 
-💡 **Actionable Insight:** Margaret Peacock is our leading sales representative, outperforming the runner-up by nearly $30,000. Leadership should consider analysing her sales tactics to build a targeted training programme for underperforming representatives.
+💡 **Actionable Insight:** Margaret Peacock is our leading sales representative, outperforming the runner-up by more than $30,000. Leadership should consider analysing her sales tactics to build a targeted training programme for underperforming representatives.
 
 ---
 
@@ -164,7 +164,7 @@ ORDER BY discount_tier;
 
 <img src="https://github.com/thabiso-23/northwind-traders-case-study/blob/main/Visualisations/Chart_5_Discount_Effectiveness.png?raw=true" width="800">)
 
-💡 **Actionable Insight:** The data proves that discounting *does* drive volume. Customers purchasing items at a "High Discount" bought an average of 34 units per order, compared to just 21 units when no discount was offered. 
+💡 **Actionable Insight:** The data proves that discounting *does* drive volume. Customers purchasing items at a "High Discount" bought an average of 27.6 units per order, compared to just 21.7 units when no discount was offered. 
 
 ---
 
@@ -226,7 +226,7 @@ LIMIT 10;
 ## 6. Overall Strategic Recommendations
 Based on the comprehensive data audit, I recommend the executive board action the following three initiatives:
 1. **Supply Chain Optimisation:** Immediately review the SLA with Speedy Express or divert 20% of their current freight volume to United Package to decrease late delivery complaints.
-2. **Targeted Retention:** Deploy an automated win-back campaign offering high-tier discounts (>20%) specifically to the 23.6% of the customer base currently categorised as "At Risk".
+2. **Targeted Retention:** Deploy an automated win-back campaign offering high-tier discounts (>20%) specifically to the 12.4% of the customer base currently categorised as "At Risk".
 3. **Sales Enablement:** Institute a mentorship programme pairing Margaret Peacock with bottom-quartile sales representatives to codify and scale her successful conversion tactics.
 
 ---
