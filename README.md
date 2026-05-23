@@ -21,7 +21,7 @@ Rather than just presenting raw data, my goal was to extract actionable business
 ## 4. Data Modelling (Database Architecture)
 Before diving into the analysis, I exported the relational database schema to visualise the flow of information between employees, customers, product inventory, and shipping vendors. Understanding these relationships dictated the architecture of my `JOIN` clauses throughout the analysis.
 
-*(A complete PDF of the Entity Relationship Diagram (ERD) is available in the repository files).
+*A complete PDF of the Entity Relationship Diagram (ERD) is available in the repository files.
 The case study was adapted from the file(s) in this GitHub repository - https://raw.githubusercontent.com/pthom/northwind_psql/master/northwind.sql*
 
 ---
