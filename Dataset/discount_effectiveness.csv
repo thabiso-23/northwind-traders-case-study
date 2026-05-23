@@ -1,0 +1,5 @@
+"discount_tier","total_line_items","avg_quantity_purchased","total_revenue"
+"1. No Discount",1317,21.72,750698.61
+"2. Low Discount (1-10%)",193,26.92,147969.44
+"3. Medium Discount (11-20%)",330,26.73,179005.31
+"4. High Discount (>20%)",315,27.62,188119.67
